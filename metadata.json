@@ -1,0 +1,5 @@
+{
+  "name": " Extracteur de Texte Intelligent AMINE",
+  "description": "Une application pour importer n'importe quel type de fichier (PDF, DOCX, TXT, JPG, PNG, XLSX, CSV, etc.) et en extraire automatiquement tout le texte lisible sous une forme claire et structurée.",
+  "requestFramePermissions": []
+}

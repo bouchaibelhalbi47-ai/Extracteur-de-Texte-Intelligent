@@ -1,0 +1,8 @@
+{
+  "name": "extracteur-de-texte-intelligent",
+  "version": "1.0.0",
+  "description": "Une application pour importer n'importe quel type de fichier et en extraire le texte.",
+  "dependencies": {
+    "@google/genai": "^1.28.0"
+  }
+}
